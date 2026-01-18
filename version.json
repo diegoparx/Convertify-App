@@ -1,11 +1,11 @@
 {
-  \"version\": \"1.0.2\",
-  \"release_date\": \"2026-01-18\",
-  \"download_url\": \"https://github.com/diegoparx/Convertify-App/releases/latest\",
-  \"changelog\": [
-    \"âœ¨ Nuevo sistema de actualizaciones automÃ¡ticas\",
-    \"🎨 Mejoras visuales en el reproductor\",
-    \"🔧 CorrecciÃ³n de errores en la sincronizaciÃ³n de Discord\",
-    \"💾 Persistencia de la Ãºltima playlist seleccionada\"
+  "version": "1.0.2",
+  "release_date": "2026-01-18",
+  "download_url": "https://github.com/diegoparx/Convertify-App/releases/latest",
+  "changelog": [
+    "✨ Nuevo sistema de actualizaciones automáticas",
+    "🎨 Mejoras visuales en el reproductor",
+    "🔧 Corrección de errores en la sincronización de Discord",
+    "💾 Persistencia de la última playlist seleccionada"
   ]
 }
